@@ -1,7 +1,7 @@
 # Efield-Simulation
 
 <p float="left">
-  <img src="/img1.png" width="100" />
+  <img src="/Users/arjunchandra/Desktop/Screenshot 2024-04-23 at 7.08.51 PM.png" width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
