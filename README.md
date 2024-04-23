@@ -1,6 +1,6 @@
 # Efield-Simulation
 
-A simulation of the Electric Field illustrating how Poisson Flow Generative Models (PFGMs) avoid mode collapse by embedding an N dimensional distribution in an N+1 dimensional space and sampling from the augmented space.
+A simulation of the electric field illustrating how Poisson Flow Generative Models (PFGMs) avoid mode collapse by embedding an N dimensional distribution in an N+1 dimensional space and sampling from the augmented space. Compile with GCC compiler.
 
 
 #### CLI:
