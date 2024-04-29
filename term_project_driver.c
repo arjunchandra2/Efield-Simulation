@@ -451,7 +451,7 @@ int main(int argc, char *argv[])
   glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB | GLUT_DEPTH);
   glutInitWindowSize(WIDTH,HEIGHT);
   glutInitWindowPosition(50,50);
-  glutCreateWindow("2D PFGM Simulation");
+  glutCreateWindow("2D Electric Field Simulation");
 
   myinit();
 
