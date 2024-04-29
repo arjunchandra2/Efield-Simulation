@@ -258,7 +258,7 @@ void display(void)
   glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
   
   
-  //Draw  all of the distribution charges 
+  //Draw all of the distribution charges 
 
   for(int i=0; i<n; i++){
     x_coord = d_charge_locations[i];
@@ -442,6 +442,9 @@ int main(int argc, char *argv[])
   scanf("%lf", &t_x);
   printf("Enter the y coordinate of the test charge: ");
   scanf("%lf", &t_y);
+
+  printf("Left click on the window to open the menu and start the simulation ... ");
+  printf("\n");
   
  
   glutInit(&argc, argv);
